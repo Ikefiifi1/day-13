@@ -1,0 +1,46 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 400;
+  text-align: center;
+  color: #bd0707;
+}
+.article {
+  grid-area: sidebar;
+  background-color: #f3f2b3;
+  padding: 10px;
+}
+p {
+  margin: 10px;
+  padding: 0;
+  font-size: 1.2em;
+  lett
+  font-weight: 400;
+  line-height: 2.0;
+  text-align: justify;
+  margin: 20px 0;
+}
+
+.footer {
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 0.1em;
+  text-align: center;
+  font-size: 1em;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
